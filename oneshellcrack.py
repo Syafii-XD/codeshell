@@ -11,7 +11,7 @@ from threading import Thread, BoundedSemaphore, Lock
 __program__ = 'oneshellcrack'
 __version__ = '1.0.1'
 __author__ = 'L'
-__github__ = 'https://github.com/Syafii-XD/oneshellcrack'
+__github__ = 'https://github.com/L-codes/oneshellcrack'
 
 headers = {'Content-Type': 'application/x-www-form-urlencoded',
            'User-Agent': 'Mozilla/4.0 (compatible; MSIE 6.0; Windows NT 6.0; en) Opera 9.26'}
